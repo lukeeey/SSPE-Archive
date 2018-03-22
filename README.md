@@ -1,3 +1,5 @@
+![SSPE Banner](https://raw.githubusercontent.com/lukeeey/SSPE-Archive/gh-pages/images/SSPEBanner.jpg)
+
 ## SSPE Archive
 
 This is my archive for the recently discontinued SSPE Shader for Minecraft: Bedrock Edition.
